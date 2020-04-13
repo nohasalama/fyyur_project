@@ -113,4 +113,4 @@ To start and run the local development server:
 ## Authors
 
 Noha Salama has implemented the models and the API endpoints in `app.py`, and this README.
-The rest of the project files, including the templates, were created by [Udacity](https://www.udacity.com/) as a project base code for project 1 for the [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044).# fyyur_project
+The rest of the project files, including the templates, were created by [Udacity](https://www.udacity.com/) as a project base code for project 1 for the [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044).
